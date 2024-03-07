@@ -6,7 +6,7 @@ import { NavigationMenu } from "@/components/NavigationMenu";
 const inter = Inter({ subsets: ["latin"] });
 
 const APP_NAME = "PWA App";
-const APP_DEFAULT_TITLE = "My Awesome PWA App";
+const APP_DEFAULT_TITLE = "PWA Nexjs Test";
 const APP_TITLE_TEMPLATE = "%s - PWA App";
 const APP_DESCRIPTION = "Best PWA app in the world!";
 
