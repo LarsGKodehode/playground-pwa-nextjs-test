@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "name": "My awesome PWA app",
   "short_name": "PWA App",
   "icons": [
