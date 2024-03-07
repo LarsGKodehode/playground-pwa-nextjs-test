@@ -14,7 +14,7 @@ export default function NavigationMenu() {
             <Link href="/">Home</Link>
           </li>
           <li>
-            <Link href="/">About</Link>
+            <Link href="/about">About</Link>
           </li>
         </div>
       </ul>
