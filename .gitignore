@@ -36,5 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 # Generated service worker
-public/sw.js
-public/swe-worker-development.js
+public/sw*.js
